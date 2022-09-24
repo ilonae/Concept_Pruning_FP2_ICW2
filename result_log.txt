@@ -1,0 +1,8 @@
+Concept Pruning log
+=========================================================================================
+Initial pred: 0.8473105363547802
+=========================================================================================
+iteration 0 , finding irrelevant concepts...
+Voted least relevant concept ids to prune (max vote ids): {'features.0': [30, 29, 24, 26, 19, 18, 20, 23, 35, 33]}
+iteration 0 , pred after pruning:  0.8418153431266546
+iteration 0 , pred after pruning AND finetuning:  0.9089285403490066
